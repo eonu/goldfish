@@ -1,4 +1,4 @@
-# Volter
+# Goldfish
 
 In this repository are the fonts `Volter (Goldfish)` and `Volter-Bold (Goldfish)`, which are pixel-style `sans-serif` fonts.
 
