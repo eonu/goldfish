@@ -2,7 +2,7 @@
 
 In this repository are the fonts `Volter (Goldfish)` and `Volter-Bold (Goldfish)`, which are pixel-style `sans-serif` fonts.
 
-Volter (Goldfish) and Volter-Bold (Goldfish) is a font family created by [Sulake](http://www.sulake.com/).
+Volter (Goldfish) and Volter-Bold (Goldfish) are font faces created by [Sulake](http://www.sulake.com/).
 
 ---
 
