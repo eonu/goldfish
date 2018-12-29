@@ -26,12 +26,12 @@ Then you can start using the font faces:
 @import url("goldfish.css");
 
 // Volter Goldfish
-#volter-goldfish {
+h1 {
   font-family: 'Volter Goldfish';
 }
 
 // Volter-Bold Goldfish
-#volter-bold-goldfish {
+h1 {
   font-family: 'Volter Goldfish';
   font-weight: bold;
 }
