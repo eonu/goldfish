@@ -2,7 +2,7 @@
 
 In this repository are the fonts `Volter (Goldfish)` and `Volter-Bold (Goldfish)`, which are pixel-style `sans-serif` fonts.
 
-Volter is a font family created by [Sulake](http://www.sulake.com/).
+Volter (Goldfish) and Volter-Bold (Goldfish) is a font family created by [Sulake](http://www.sulake.com/).
 
 ---
 
@@ -10,7 +10,7 @@ Volter is a font family created by [Sulake](http://www.sulake.com/).
 
 ## Setup
 
-To set up the font family:
+To set up the font faces:
 
 - Make sure the font files are in the correct directory
 - Copy the `volter` and `volter-bold` directories, along with `goldfish.css`, to your application
@@ -20,7 +20,7 @@ To set up the font family:
   @import url("path/to/goldfish.css");
   ```
 
-Then you can start using the font family:
+Then you can start using the font faces:
 
 ```scss
 @import url("goldfish.css");
