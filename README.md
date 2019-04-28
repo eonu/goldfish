@@ -1,8 +1,6 @@
 # Goldfish
 
-In this repository are the fonts `Volter (Goldfish)` and `Volter-Bold (Goldfish)`, which are pixel-style `sans-serif` fonts.
-
-Volter (Goldfish) and Volter-Bold (Goldfish) are font faces created by [Sulake](http://www.sulake.com/).
+In this repository is the Volter (Goldfish) font and its bold variation, Volter-Bold, which are both pixel-style sans-serif fonts created by [Sulake](http://www.sulake.com/).
 
 ---
 
@@ -25,12 +23,12 @@ Then you can start using the font faces:
 ```scss
 @import url("goldfish.css");
 
-// Volter Goldfish
+// Volter (Goldfish)
 h1 {
   font-family: 'Volter Goldfish';
 }
 
-// Volter-Bold Goldfish
+// Volter-Bold (Goldfish)
 h1 {
   font-family: 'Volter Goldfish';
   font-weight: bold;
@@ -38,3 +36,9 @@ h1 {
 ```
 
 **Demo webpages for the fonts can be found in each of their respective directories**
+
+## License
+
+Licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+<p align="center"><a href=""><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" width="100px"></a></p>
