@@ -25,12 +25,12 @@ Then you can start using the font faces:
 
 // Volter (Goldfish)
 h1 {
-  font-family: 'Volter Goldfish';
+  font-family: 'Volter';
 }
 
 // Volter-Bold (Goldfish)
 h1 {
-  font-family: 'Volter Goldfish';
+  font-family: 'Volter';
   font-weight: bold;
 }
 ```
