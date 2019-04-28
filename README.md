@@ -41,4 +41,4 @@ h1 {
 
 Licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
 
-<p align="center"><a href=""><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" width="100px"></a></p>
+<p align="center"><a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" width="100px"></a></p>
