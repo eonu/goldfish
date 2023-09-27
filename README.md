@@ -1,6 +1,6 @@
 # Goldfish
 
-In this repository is the Volter (Goldfish) font and its bold variation, Volter-Bold, which are both pixel-style sans-serif fonts created by [Sulake](http://www.sulake.com/).
+Volter (Goldfish) font and its bold variation, Volter-Bold, which are both pixel-style sans-serif fonts created by [Sulake](http://www.sulake.com/).
 
 ---
 
