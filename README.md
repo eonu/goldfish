@@ -8,7 +8,7 @@ The Volter (Goldfish) font and its bold variation, Volter-Bold, both pixel-style
 
 ## Setup
 
-To set up the font faces, copy one of the following directories:
+To set up the font faces:
 
 - Copy the `volter` directory into your project.
 - Import `volter/volter.css` in any CSS file you wish to use it in.
