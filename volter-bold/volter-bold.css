@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Volter';
-    src: url('formats/volter-bold-goldfish.ttf') format('ttf'),
-         url('formats/volter-bold-goldfish.woff2') format('woff2'),
-         url('formats/volter-bold-goldfish.woff') format('woff'),
-         url('formats/volter-bold-goldfish.svg#volter-bold_goldfish') format('svg');
-    font-weight: bold;
-    font-style: normal;
-}
